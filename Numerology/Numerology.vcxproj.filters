@@ -39,6 +39,9 @@
     <ClInclude Include="m_comboMon.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="common.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Numerology.cpp">

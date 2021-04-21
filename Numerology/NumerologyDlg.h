@@ -42,8 +42,10 @@ public:
 	afx_msg void OnCbnSelchangeComboYear();
 	afx_msg void OnBnClickedButton1();
 	afx_msg void OnBnClickedRadioMale();
+	afx_msg void OnBnClickedButtonPerson();
 private:
 	int m_nSex; // 1: male 2:femal
+	int m_nCurYear;
 public:
 	afx_msg void OnBnClickedRadioFemale();
 };
